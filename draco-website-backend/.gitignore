@@ -1,0 +1,43 @@
+# .NET
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+packages/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# NPM/Yarn
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# NuGet
+.nuget/
+
+# VS Code specific
+.vscode/
+
+# Local settings
+appsettings.Development.json
+appsettings.Local.json
+
+# Rider
+.idea/
+.vs/nike-website-backend/v17/.suo
+.vs/nike-website-backend/v17/.futdcache.v2
+.vs/nike-website-backend/v17/DocumentLayout.backup.json
+.vs/nike-website-backend/v17/DocumentLayout.json
+Configs/nike-d3392-firebase-adminsdk-t6ndk-364532f7b5.json
+obj/project.nuget.cache
+
+obj/Debug/net8.0
+bin/Debug/net8.0
