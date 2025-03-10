@@ -48,7 +48,6 @@ Số lượng thành viên: **04**
   - `/Models`: Chứa các model dữ liệu đại diện cho các thực thể trong hệ thống.
   - `/Dtos`: Chứa các Data Transfer Objects (DTOs) để truyền dữ liệu giữa các tầng.
   - `/Interfaces`: Định nghĩa các hợp đồng (contracts) cho repository và service.
-  - `/Repositories`: Các logic giao tiếp trực tiếp với database.
   - `/Services`: Chứa các dịch vụ xử lý logic nghiệp vụ.
   - `/Mappers`: Chuyển đổi giữa model, DTO và các thực thể khác.
 
