@@ -10,9 +10,16 @@ Link GitHub Repository: [WebsiteThoiTrangDraco](https://github.com/huutoanzz/Web
 Số lượng thành viên: **04**
 
 ## 🛠 Công nghệ sử dụng
-- **Front-end**: React JavaScript
-- **Back-end**: .NET Webcore API
-- **Database**: SQL Server
+- **Front-end**:  
+  - **Ngôn ngữ:** React JavaScript  
+  - **Frameworks/Thư viện:** Tailwind CSS, Ant Design, Redux Toolkit, React Router DOM, Axios, Framer Motion  
+  - **Các công cụ hỗ trợ:** React Icons, Date-fns, Firebase  
+
+- **Back-end**:  
+  - **Ngôn ngữ:** .NET Webcore API  
+  - **Thư viện chính:** Swashbuckle.AspNetCore (Swagger tài liệu hóa API), AutoMapper (chuyển đổi giữa DTO và Model), Entity Framework Core  
+
+- **Database**: SQL Server  
 
 ## ✨ Các chức năng chính
 1. **Quản lý sản phẩm**:
